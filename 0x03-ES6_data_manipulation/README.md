@@ -3,3 +3,4 @@
 0. Basic list of objects
 1. More mapping
 2. Filter
+3. Reduce
